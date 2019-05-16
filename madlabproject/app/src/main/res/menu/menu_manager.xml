@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tweet"
+        android:title="TWEET"
+        >
+    </item>
+
+    <item
+        android:id="@+id/Chat"
+        android:title="CHAT"
+        >
+    </item>
+
+    <item
+        android:id="@+id/Logout"
+        android:title="Logout"
+        >
+    </item>
+
+    <item
+        android:id="@+id/book"
+        android:title="BOOK">
+
+    </item>
+
+    <item
+        android:id="@+id/ViewBookings"
+        android:title="VIEW BOOKINGS">
+
+    </item>
+</menu>

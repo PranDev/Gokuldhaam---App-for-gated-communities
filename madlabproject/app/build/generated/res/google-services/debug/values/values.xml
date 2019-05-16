@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">837311336118-1olv78lid6kq3ct7sl7jte4kiurp6gtj.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://madlabproject-a37cd.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">837311336118</string>
+    <string name="google_api_key" translatable="false">AIzaSyBIZjOA_chcxnI0dgg8INMCzK0g--aN9DI</string>
+    <string name="google_app_id" translatable="false">1:837311336118:android:9890c549511ba4bc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBIZjOA_chcxnI0dgg8INMCzK0g--aN9DI</string>
+    <string name="google_storage_bucket" translatable="false">madlabproject-a37cd.appspot.com</string>
+    <string name="project_id" translatable="false">madlabproject-a37cd</string>
+</resources>

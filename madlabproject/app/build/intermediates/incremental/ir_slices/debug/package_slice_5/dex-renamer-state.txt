@@ -1,0 +1,4 @@
+#Sat May 04 11:40:03 IST 2019
+base.0=D\:\\Semester 6\\madlabproject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
